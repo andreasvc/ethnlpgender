@@ -1,6 +1,6 @@
 # Code for paper Bias and Fairness in Authorial Gender Attribution
 
-Code and results used in the following paper: http://www.ethicsinnlp.org/workshop/pdf/EthNLP03.pdf
+Code and results used in the following paper: http://aclweb.org/anthology/W17-1602
 
 The data is not included for copyright reasons.
 
@@ -15,7 +15,7 @@ The data is not included for copyright reasons.
   booktitle = {Proceedings of the First ACL Workshop on Ethics in Natural Language Processing},
   year      = {2017},
   pages     = {12--22},
-  url       = {http://www.ethicsinnlp.org/workshop/pdf/EthNLP03.pdf},
+  url       = {http://aclweb.org/anthology/W17-1602},
   abstract  = {Stylometric and text categorization results show that author gender can be
 	discerned in texts with relatively high accuracy. However, it is difficult to
 	explain what gives rise to these results and there are many possible
